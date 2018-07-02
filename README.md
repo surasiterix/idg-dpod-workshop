@@ -7,7 +7,7 @@ Construcción de un ambiente para hacer un workshop de DevOps para IBM Datapower
 Lista de tareas
 - [ ] Construcción del Ambiente (IDG + DPOD)
 - [ ] Creación de servicios sobre IDG
-- [ ]Creación de generador de carga en DP
+- [ ] Creación de generador de carga en DP
 - [ ] Creación de guión de pruebas
 - [ ] Pruebas
 - [ ] Publicación
