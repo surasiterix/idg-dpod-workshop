@@ -11,6 +11,6 @@ Lista de tareas
 - [ ] Creación de guión de pruebas
 - [ ] Pruebas
 - [ ] Publicación
-- 
+
 ## Adiciones Futuras
 - Incorporar cargas de APIs
